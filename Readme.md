@@ -1,0 +1,1 @@
+Kernel 2.6.37 for Micronet devices based on TI37xx chipset.
